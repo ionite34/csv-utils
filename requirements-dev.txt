@@ -1,1 +1,6 @@
 pytest>=7.1.2
+pandas>=1.4.2
+setuptools>=60.2.0
+yaspin>=2.1.0
+inquirerpy>=0.3.3
+click>=8.1.3
